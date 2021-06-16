@@ -54,6 +54,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://compassionate-lichterman-26c523.netlify.app/)
+- Website [prasannakarki77-website.com](https://compassionate-lichterman-26c523.netlify.app/)
 - GitHub [@prasannakarki77](https://github.com/prasannakarki77)
 - Twitter [@PrkKarkee-twitter](https://twitter.com/PrkKarkee)
